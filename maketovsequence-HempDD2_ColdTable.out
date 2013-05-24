@@ -1,0 +1,450 @@
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00037, P_c = 5.70098e-06, eps_c = 0.000378496
+finished odeint with kount = 2100, r = 11.8696, and P = 1.46133e-24
+Found TOV solution for rho_c = 0.00037
+       Mass     = 0.185095
+       RestMass = 0.185673
+       Radius   = 11.6838
+       Circ Radius = 11.8696
+       Surf Lapse  =  0.984283  0.984283  11.8696
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000384711, P_c = 6.39853e-06, eps_c = 0.000393802
+finished odeint with kount = 2043, r = 11.3236, and P = 5.70151e-24
+Found TOV solution for rho_c = 0.000384711
+       Mass     = 0.199377
+       RestMass = 0.200216
+       Radius   = 11.1233
+       Circ Radius = 11.3236
+       Surf Lapse  =  0.982235  0.982235  11.3236
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000400008, P_c = 7.1843e-06, eps_c = 0.000409734
+finished odeint with kount = 1998, r = 10.8645, and P = 4.95276e-25
+Found TOV solution for rho_c = 0.000400008
+       Mass     = 0.215109
+       RestMass = 0.21627
+       Radius   = 10.6483
+       Circ Radius = 10.8645
+       Surf Lapse  =  0.980001  0.980001  10.8645
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000415913, P_c = 8.06901e-06, eps_c = 0.000426317
+finished odeint with kount = 1956, r = 10.4757, and P = 5.71368e-25
+Found TOV solution for rho_c = 0.000415913
+       Mass     = 0.232382
+       RestMass = 0.233938
+       Radius   = 10.242
+       Circ Radius = 10.4757
+       Surf Lapse  =  0.977565  0.977565  10.4757
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00043245, P_c = 9.10324e-06, eps_c = 0.000443613
+finished odeint with kount = 1893, r = 10.1462, and P = 2.29896e-24
+Found TOV solution for rho_c = 0.00043245
+       Mass     = 0.252038
+       RestMass = 0.254097
+       Radius   = 9.89252
+       Circ Radius = 10.1462
+       Surf Lapse  =  0.974843  0.974843  10.1462
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000449644, P_c = 1.03101e-05, eps_c = 0.000461653
+finished odeint with kount = 1852, r = 9.85344, and P = 1.85227e-24
+Found TOV solution for rho_c = 0.000449644
+       Mass     = 0.274423
+       RestMass = 0.277123
+       Radius   = 9.57705
+       Circ Radius = 9.85344
+       Surf Lapse  =  0.971751  0.971751  9.85344
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000467522, P_c = 1.16798e-05, eps_c = 0.000480438
+finished odeint with kount = 1828, r = 9.6109, and P = 1.00421e-23
+Found TOV solution for rho_c = 0.000467522
+       Mass     = 0.299145
+       RestMass = 0.302638
+       Radius   = 9.30935
+       Circ Radius = 9.6109
+       Surf Lapse  =  0.968374  0.968374  9.6109
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000486111, P_c = 1.32397e-05, eps_c = 0.000500006
+finished odeint with kount = 1822, r = 9.41737, and P = 6.12216e-24
+Found TOV solution for rho_c = 0.000486111
+       Mass     = 0.326447
+       RestMass = 0.330918
+       Radius   = 9.08799
+       Circ Radius = 9.41737
+       Surf Lapse  =  0.964713  0.964713  9.41737
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00050544, P_c = 1.50973e-05, eps_c = 0.000520481
+finished odeint with kount = 1745, r = 9.25018, and P = 2.7876e-25
+Found TOV solution for rho_c = 0.00050544
+       Mass     = 0.35795
+       RestMass = 0.363683
+       Radius   = 8.88862
+       Circ Radius = 9.25018
+       Surf Lapse  =  0.960524  0.960524  9.25018
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000525536, P_c = 1.7227e-05, eps_c = 0.000541826
+finished odeint with kount = 1733, r = 9.11331, and P = 1.68699e-23
+Found TOV solution for rho_c = 0.000525536
+       Mass     = 0.392889
+       RestMass = 0.400188
+       Radius   = 8.71599
+       Circ Radius = 9.11331
+       Surf Lapse  =  0.955917  0.955917  9.11331
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000546432, P_c = 1.96627e-05, eps_c = 0.000564078
+finished odeint with kount = 1680, r = 9.00993, and P = 6.09345e-24
+Found TOV solution for rho_c = 0.000546432
+       Mass     = 0.431385
+       RestMass = 0.440612
+       Radius   = 8.57312
+       Circ Radius = 9.00993
+       Surf Lapse  =  0.950917  0.950917  9.00993
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000568158, P_c = 2.24827e-05, eps_c = 0.000587342
+finished odeint with kount = 1693, r = 8.9299, and P = 1.28335e-23
+Found TOV solution for rho_c = 0.000568158
+       Mass     = 0.474149
+       RestMass = 0.485767
+       Radius   = 8.4491
+       Circ Radius = 8.9299
+       Surf Lapse  =  0.945413  0.945413  8.9299
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000590749, P_c = 2.57647e-05, eps_c = 0.000611699
+finished odeint with kount = 1686, r = 8.86868, and P = 1.95288e-23
+Found TOV solution for rho_c = 0.000590749
+       Mass     = 0.521768
+       RestMass = 0.536358
+       Radius   = 8.33875
+       Circ Radius = 8.86868
+       Surf Lapse  =  0.939327  0.939327  8.86868
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000614238, P_c = 2.95307e-05, eps_c = 0.000637112
+finished odeint with kount = 1641, r = 8.83135, and P = 6.63251e-24
+Found TOV solution for rho_c = 0.000614238
+       Mass     = 0.573813
+       RestMass = 0.592023
+       Radius   = 8.24756
+       Circ Radius = 8.83135
+       Surf Lapse  =  0.932765  0.932765  8.83135
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00063866, P_c = 3.38525e-05, eps_c = 0.000663636
+finished odeint with kount = 1645, r = 8.81106, and P = 1.02091e-23
+Found TOV solution for rho_c = 0.00063866
+       Mass     = 0.630432
+       RestMass = 0.653026
+       Radius   = 8.16846
+       Circ Radius = 8.81106
+       Surf Lapse  =  0.925689  0.925689  8.81106
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000664054, P_c = 3.88237e-05, eps_c = 0.000691527
+finished odeint with kount = 1637, r = 8.79668, and P = 1.94373e-23
+Found TOV solution for rho_c = 0.000664054
+       Mass     = 0.691843
+       RestMass = 0.719722
+       Radius   = 8.09004
+       Circ Radius = 8.79668
+       Surf Lapse  =  0.917989  0.917989  8.79668
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000690457, P_c = 4.45324e-05, eps_c = 0.000720705
+finished odeint with kount = 1627, r = 8.8039, and P = 9.71875e-24
+Found TOV solution for rho_c = 0.000690457
+       Mass     = 0.757969
+       RestMass = 0.792162
+       Radius   = 8.02804
+       Circ Radius = 8.8039
+       Surf Lapse  =  0.909841  0.909841  8.8039
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00071791, P_c = 5.10889e-05, eps_c = 0.000751212
+finished odeint with kount = 1637, r = 8.80951, and P = 3.28501e-23
+Found TOV solution for rho_c = 0.00071791
+       Mass     = 0.828814
+       RestMass = 0.870495
+       Radius   = 7.95911
+       Circ Radius = 8.80951
+       Surf Lapse  =  0.90102  0.90102  8.80951
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000746455, P_c = 5.85605e-05, eps_c = 0.000783225
+finished odeint with kount = 1632, r = 8.83131, and P = 5.14903e-23
+Found TOV solution for rho_c = 0.000746455
+       Mass     = 0.903709
+       RestMass = 0.954143
+       Radius   = 7.90177
+       Circ Radius = 8.83131
+       Surf Lapse  =  0.891818  0.891818  8.83131
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000776134, P_c = 6.70038e-05, eps_c = 0.000816949
+finished odeint with kount = 1638, r = 8.84949, and P = 3.2631e-23
+Found TOV solution for rho_c = 0.000776134
+       Mass     = 0.981614
+       RestMass = 1.04208
+       Radius   = 7.83714
+       Circ Radius = 8.84949
+       Surf Lapse  =  0.88213  0.88213  8.84949
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000806994, P_c = 7.66734e-05, eps_c = 0.00085229
+finished odeint with kount = 1624, r = 8.87127, and P = 7.30952e-24
+Found TOV solution for rho_c = 0.000806994
+       Mass     = 1.06325
+       RestMass = 1.13527
+       Radius   = 7.77165
+       Circ Radius = 8.87127
+       Surf Lapse  =  0.871948  0.871948  8.87127
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000839081, P_c = 8.77434e-05, eps_c = 0.000889337
+finished odeint with kount = 1620, r = 8.89669, and P = 1.33727e-23
+Found TOV solution for rho_c = 0.000839081
+       Mass     = 1.14828
+       RestMass = 1.23349
+       Radius   = 7.70563
+       Circ Radius = 8.89669
+       Surf Lapse  =  0.861315  0.861315  8.89669
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000872443, P_c = 0.000100013, eps_c = 0.000928491
+finished odeint with kount = 1614, r = 8.92027, and P = 5.91406e-24
+Found TOV solution for rho_c = 0.000872443
+       Mass     = 1.23345
+       RestMass = 1.3331
+       Radius   = 7.63702
+       Circ Radius = 8.92027
+       Surf Lapse  =  0.850559  0.850559  8.92027
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000907132, P_c = 0.00011388, eps_c = 0.000969706
+finished odeint with kount = 1610, r = 8.94048, and P = 1.02315e-23
+Found TOV solution for rho_c = 0.000907132
+       Mass     = 1.31973
+       RestMass = 1.43532
+       Radius   = 7.56318
+       Circ Radius = 8.94048
+       Surf Lapse  =  0.839508  0.839508  8.94048
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000943201, P_c = 0.000129683, eps_c = 0.00101306
+finished odeint with kount = 1630, r = 8.95971, and P = 3.32549e-24
+Found TOV solution for rho_c = 0.000943201
+       Mass     = 1.40735
+       RestMass = 1.54051
+       Radius   = 7.48622
+       Circ Radius = 8.95971
+       Surf Lapse  =  0.82816  0.82816  8.95971
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.000980703, P_c = 0.000147436, eps_c = 0.00105876
+finished odeint with kount = 1588, r = 8.97166, and P = 9.25975e-23
+Found TOV solution for rho_c = 0.000980703
+       Mass     = 1.49458
+       RestMass = 1.6467
+       Radius   = 7.40163
+       Circ Radius = 8.97166
+       Surf Lapse  =  0.816591  0.816591  8.97166
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.0010197, P_c = 0.000166829, eps_c = 0.00110718
+finished odeint with kount = 1619, r = 8.98011, and P = 1.10923e-24
+Found TOV solution for rho_c = 0.0010197
+       Mass     = 1.57829
+       RestMass = 1.75004
+       Radius   = 7.3167
+       Circ Radius = 8.98011
+       Surf Lapse  =  0.80529  0.80529  8.98011
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00106024, P_c = 0.000188771, eps_c = 0.0011583
+finished odeint with kount = 1626, r = 8.98191, and P = 1.51291e-23
+Found TOV solution for rho_c = 0.00106024
+       Mass     = 1.66097
+       RestMass = 1.85356
+       Radius   = 7.22549
+       Circ Radius = 8.98191
+       Surf Lapse  =  0.793822  0.793822  8.98191
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.0011024, P_c = 0.000213606, eps_c = 0.00121227
+finished odeint with kount = 1609, r = 8.97899, and P = 5.32021e-23
+Found TOV solution for rho_c = 0.0011024
+       Mass     = 1.74216
+       RestMass = 1.95669
+       Radius   = 7.13042
+       Circ Radius = 8.97899
+       Surf Lapse  =  0.782271  0.782271  8.97899
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00114623, P_c = 0.000240537, eps_c = 0.0012695
+finished odeint with kount = 1596, r = 8.96926, and P = 9.39894e-23
+Found TOV solution for rho_c = 0.00114623
+       Mass     = 1.8181
+       RestMass = 2.05458
+       Radius   = 7.03367
+       Circ Radius = 8.96926
+       Surf Lapse  =  0.771098  0.771098  8.96926
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.0011918, P_c = 0.000270297, eps_c = 0.00133015
+finished odeint with kount = 1597, r = 8.95453, and P = 1.31039e-22
+Found TOV solution for rho_c = 0.0011918
+       Mass     = 1.88988
+       RestMass = 2.14843
+       Radius   = 6.93591
+       Circ Radius = 8.95453
+       Surf Lapse  =  0.760193  0.760193  8.95453
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00123919, P_c = 0.000303751, eps_c = 0.00139444
+finished odeint with kount = 1593, r = 8.93119, and P = 1.82141e-22
+Found TOV solution for rho_c = 0.00123919
+       Mass     = 1.95848
+       RestMass = 2.23941
+       Radius   = 6.83236
+       Circ Radius = 8.93119
+       Surf Lapse  =  0.749286  0.749286  8.93119
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00128846, P_c = 0.000340912, eps_c = 0.00146267
+finished odeint with kount = 1610, r = 8.90313, and P = 1.39396e-22
+Found TOV solution for rho_c = 0.00128846
+       Mass     = 2.02285
+       RestMass = 2.32603
+       Radius   = 6.72823
+       Circ Radius = 8.90313
+       Surf Lapse  =  0.738638  0.738638  8.90313
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00133969, P_c = 0.000380614, eps_c = 0.00153508
+finished odeint with kount = 1586, r = 8.87237, and P = 1.26733e-22
+Found TOV solution for rho_c = 0.00133969
+       Mass     = 2.08052
+       RestMass = 2.40472
+       Radius   = 6.6286
+       Circ Radius = 8.87237
+       Surf Lapse  =  0.728706  0.728706  8.87237
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00139296, P_c = 0.000424844, eps_c = 0.00161215
+finished odeint with kount = 1602, r = 8.83221, and P = 1.98932e-22
+Found TOV solution for rho_c = 0.00139296
+       Mass     = 2.13397
+       RestMass = 2.47865
+       Radius   = 6.52373
+       Circ Radius = 8.83221
+       Surf Lapse  =  0.718871  0.718871  8.83221
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00144834, P_c = 0.000474224, eps_c = 0.00169418
+finished odeint with kount = 1595, r = 8.78845, and P = 3.63595e-22
+Found TOV solution for rho_c = 0.00144834
+       Mass     = 2.18322
+       RestMass = 2.54768
+       Radius   = 6.41961
+       Circ Radius = 8.78845
+       Surf Lapse  =  0.709339  0.709339  8.78845
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00150593, P_c = 0.000527364, eps_c = 0.00178139
+finished odeint with kount = 1617, r = 8.74078, and P = 3.66774e-22
+Found TOV solution for rho_c = 0.00150593
+       Mass     = 2.22664
+       RestMass = 2.60935
+       Radius   = 6.31795
+       Circ Radius = 8.74078
+       Surf Lapse  =  0.700369  0.700369  8.74078
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00156581, P_c = 0.000585007, eps_c = 0.00187421
+finished odeint with kount = 1576, r = 8.6896, and P = 2.40298e-22
+Found TOV solution for rho_c = 0.00156581
+       Mass     = 2.2648
+       RestMass = 2.66421
+       Radius   = 6.2186
+       Circ Radius = 8.6896
+       Surf Lapse  =  0.691906  0.691906  8.6896
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00162807, P_c = 0.000648958, eps_c = 0.00197333
+finished odeint with kount = 1584, r = 8.6342, and P = 2.61002e-22
+Found TOV solution for rho_c = 0.00162807
+       Mass     = 2.29871
+       RestMass = 2.71357
+       Radius   = 6.11962
+       Circ Radius = 8.6342
+       Surf Lapse  =  0.683764  0.683764  8.6342
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.0016928, P_c = 0.000719396, eps_c = 0.0020792
+finished odeint with kount = 1579, r = 8.57469, and P = 8.55649e-23
+Found TOV solution for rho_c = 0.0016928
+       Mass     = 2.32823
+       RestMass = 2.75703
+       Radius   = 6.0214
+       Circ Radius = 8.57469
+       Surf Lapse  =  0.675982  0.675982  8.57469
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00176011, P_c = 0.00079404, eps_c = 0.00219158
+finished odeint with kount = 1599, r = 8.51402, and P = 1.75908e-22
+Found TOV solution for rho_c = 0.00176011
+       Mass     = 2.35259
+       RestMass = 2.79328
+       Radius   = 5.92802
+       Circ Radius = 8.51402
+       Surf Lapse  =  0.668851  0.668851  8.51402
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00183009, P_c = 0.000876076, eps_c = 0.00231186
+finished odeint with kount = 1608, r = 8.4504, and P = 5.75826e-23
+Found TOV solution for rho_c = 0.00183009
+       Mass     = 2.37298
+       RestMass = 2.82396
+       Radius   = 5.83621
+       Circ Radius = 8.4504
+       Surf Lapse  =  0.662098  0.662098  8.4504
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00190286, P_c = 0.000966589, eps_c = 0.00244071
+finished odeint with kount = 1595, r = 8.3835, and P = 9.58389e-22
+Found TOV solution for rho_c = 0.00190286
+       Mass     = 2.38963
+       RestMass = 2.84925
+       Radius   = 5.74539
+       Circ Radius = 8.3835
+       Surf Lapse  =  0.655683  0.655683  8.3835
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00197852, P_c = 0.00106397, eps_c = 0.00257806
+finished odeint with kount = 1586, r = 8.31571, and P = 9.55618e-22
+Found TOV solution for rho_c = 0.00197852
+       Mass     = 2.4024
+       RestMass = 2.86883
+       Radius   = 5.6583
+       Circ Radius = 8.31571
+       Surf Lapse  =  0.649771  0.649771  8.31571
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00205718, P_c = 0.00116849, eps_c = 0.00272449
+finished odeint with kount = 1617, r = 8.24726, and P = 1.0864e-21
+Found TOV solution for rho_c = 0.00205718
+       Mass     = 2.41158
+       RestMass = 2.88302
+       Radius   = 5.57488
+       Circ Radius = 8.24726
+       Surf Lapse  =  0.644345  0.644345  8.24726
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00213898, P_c = 0.00128328, eps_c = 0.00288162
+finished odeint with kount = 1610, r = 8.17701, and P = 9.3015e-23
+Found TOV solution for rho_c = 0.00213898
+       Mass     = 2.41762
+       RestMass = 2.89245
+       Radius   = 5.49339
+       Circ Radius = 8.17701
+       Surf Lapse  =  0.639279  0.639279  8.17701
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00222403, P_c = 0.00140893, eps_c = 0.0030504
+finished odeint with kount = 1602, r = 8.10552, and P = 6.2225e-22
+Found TOV solution for rho_c = 0.00222403
+       Mass     = 2.42068
+       RestMass = 2.89725
+       Radius   = 5.41427
+       Circ Radius = 8.10552
+       Surf Lapse  =  0.634592  0.634592  8.10552
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.00231245, P_c = 0.00154224, eps_c = 0.00322959
+finished odeint with kount = 1620, r = 8.03402, and P = 4.3947e-22
+Found TOV solution for rho_c = 0.00231245
+       Mass     = 2.42096
+       RestMass = 2.89769
+       Radius   = 5.3386
+       Circ Radius = 8.03402
+       Surf Lapse  =  0.630336  0.630336  8.03402
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.0024044, P_c = 0.00168737, eps_c = 0.00342194
+finished odeint with kount = 1601, r = 7.96271, and P = 2.20109e-22
+Found TOV solution for rho_c = 0.0024044
+       Mass     = 2.41873
+       RestMass = 2.89412
+       Radius   = 5.26625
+       Circ Radius = 7.96271
+       Surf Lapse  =  0.626487  0.626487  7.96271
+Constructing an equilibrium solution with altered pressure
+rho_c = 0.0025, P_c = 0.00184616, eps_c = 0.00362886
+finished odeint with kount = 1609, r = 7.88985, and P = 4.75339e-23
+Found TOV solution for rho_c = 0.0025
+       Mass     = 2.41414
+       RestMass = 2.88677
+       Radius   = 5.19526
+       Circ Radius = 7.88985
+       Surf Lapse  =  0.622928  0.622928  7.88985
