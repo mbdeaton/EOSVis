@@ -1,0 +1,12 @@
+# Temporary editor files
+*~
+*.swp
+\#*\#
+.\#*
+.DS_Store
+
+# TeX products
+*.aux
+*.log
+*.toc
+
