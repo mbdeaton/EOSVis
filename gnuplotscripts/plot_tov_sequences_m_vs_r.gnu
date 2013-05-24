@@ -6,9 +6,10 @@ set ylabel 'gravitational mass (Msun)'
 km_per_Msun=1.47
 max_r_in_km=19
 set xrange [*:max_r_in_km]
-set key top right
+set yrange [0:3]
 unset logscale x
 unset logscale y
+set key top right
 
 p \
 'maketovsequence-LS220_ColdTable.dat' u ($3*km_per_Msun):2 w l t 'LS 220',\

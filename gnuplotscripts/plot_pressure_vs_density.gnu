@@ -6,6 +6,7 @@ set ylabel 'pressure (G=c=Msun=1)'
 min_rho_in_per_Msun_per_Msun=1e-7
 max_rho_in_per_Msun_per_Msun=1e-2
 set xrange [min_rho_in_per_Msun_per_Msun:max_rho_in_per_Msun_per_Msun]
+set yrange [*:*]
 set logscale x
 set logscale y
 set key top left

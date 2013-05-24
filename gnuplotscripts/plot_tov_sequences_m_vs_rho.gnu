@@ -4,9 +4,10 @@ set title 'TOV Sequences from Cold Slices of Various Equations of State'
 set xlabel 'central density (G=c=Msun=1)'
 set ylabel 'gravitational mass (Msun)'
 set xrange [1e-4:8e-3]
-set key top left
+set yrange [0:3]
 set logscale x
 unset logscale y
+set key top left
 
 p \
 'maketovsequence-LS220_ColdTable.dat' u 1:2 w l t 'LS 220',\

@@ -7,9 +7,9 @@ km_per_Msun=1.47
 max_r_in_km=19
 set xrange [1e-4:8e-3]
 set yrange [*:max_r_in_km]
-set key top right
 set logscale x
 unset logscale y
+set key top right
 
 p \
 'maketovsequence-LS220_ColdTable.dat' u 1:($3*km_per_Msun) w l t 'LS 220',\
