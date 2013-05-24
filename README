@@ -1,0 +1,6 @@
+EOSVis: Repository of EOS visualization data, made from EOS tables used in SpEC
+
+This is meant to live in an EsOS dir, representing TOV sequences, stellar profiles,
+and thermodynamic quantities along various slices of the EsOS in ../. Most of the *.dats
+in here are generated with executables from Hydro/EquationOfState/Executables/.
+
