@@ -1,0 +1,160 @@
+rho_c = 0.00024, P_c = 2.38413e-06, eps_c = 0.000244395
+finished odeint with kount = 1053, r = 10.2731, and P = 5.81788e-25
+Found TOV solution for rho_c = 0.00024
+       Mass     = 0.125784
+       RestMass = 0.125661
+       Radius   = 10.147
+       Circ Radius = 10.2731
+       Surf Lapse  =  0.98768  0.98768  10.2731
+rho_c = 0.000270921, P_c = 3.57926e-06, eps_c = 0.000276268
+finished odeint with kount = 942, r = 9.39381, and P = 1.97118e-24
+Found TOV solution for rho_c = 0.000270921
+       Mass     = 0.165543
+       RestMass = 0.165848
+       Radius   = 9.22753
+       Circ Radius = 9.39381
+       Surf Lapse  =  0.982219  0.982219  9.39381
+rho_c = 0.000305826, P_c = 5.33018e-06, eps_c = 0.000312431
+finished odeint with kount = 929, r = 8.96356, and P = 1.15553e-24
+Found TOV solution for rho_c = 0.000305826
+       Mass     = 0.222447
+       RestMass = 0.223741
+       Radius   = 8.7397
+       Circ Radius = 8.96356
+       Surf Lapse  =  0.974867  0.974867  8.96356
+rho_c = 0.000345228, P_c = 7.85973e-06, eps_c = 0.00035351
+finished odeint with kount = 877, r = 8.81266, and P = 5.54715e-24
+Found TOV solution for rho_c = 0.000345228
+       Mass     = 0.298468
+       RestMass = 0.301748
+       Radius   = 8.51157
+       Circ Radius = 8.81266
+       Surf Lapse  =  0.965538  0.965538  8.81266
+rho_c = 0.000389706, P_c = 1.15253e-05, eps_c = 0.000400302
+finished odeint with kount = 886, r = 8.82357, and P = 1.79677e-24
+Found TOV solution for rho_c = 0.000389706
+       Mass     = 0.396888
+       RestMass = 0.403838
+       Radius   = 8.42201
+       Circ Radius = 8.82357
+       Surf Lapse  =  0.95396  0.95396  8.82357
+rho_c = 0.000439915, P_c = 1.67844e-05, eps_c = 0.000453688
+finished odeint with kount = 839, r = 8.92549, and P = 7.07935e-24
+Found TOV solution for rho_c = 0.000439915
+       Mass     = 0.519708
+       RestMass = 0.532958
+       Radius   = 8.39774
+       Circ Radius = 8.92549
+       Surf Lapse  =  0.939971  0.939971  8.92549
+rho_c = 0.000496593, P_c = 2.42957e-05, eps_c = 0.000514747
+finished odeint with kount = 829, r = 9.0712, and P = 7.02108e-24
+Found TOV solution for rho_c = 0.000496593
+       Mass     = 0.668058
+       RestMass = 0.691469
+       Radius   = 8.38985
+       Circ Radius = 9.0712
+       Surf Lapse  =  0.923422  0.923422  9.0712
+rho_c = 0.000560573, P_c = 3.49933e-05, eps_c = 0.000584858
+finished odeint with kount = 8798, r = 9.22602, and P = 2.37161e-23
+Found TOV solution for rho_c = 0.000560573
+       Mass     = 0.841581
+       RestMass = 0.880502
+       Radius   = 8.36327
+       Circ Radius = 9.22602
+       Surf Lapse  =  0.904192  0.904192  9.22602
+rho_c = 0.000632796, P_c = 5.00975e-05, eps_c = 0.000665609
+finished odeint with kount = 8443, r = 9.36947, and P = 4.13788e-25
+Found TOV solution for rho_c = 0.000632796
+       Mass     = 1.03659
+       RestMass = 1.0978
+       Radius   = 8.30052
+       Circ Radius = 9.36947
+       Surf Lapse  =  0.882457  0.882457  9.36947
+rho_c = 0.000714324, P_c = 7.11542e-05, eps_c = 0.000759082
+finished odeint with kount = 8098, r = 9.47987, and P = 2.12213e-23
+Found TOV solution for rho_c = 0.000714324
+       Mass     = 1.24542
+       RestMass = 1.33657
+       Radius   = 8.18709
+       Circ Radius = 9.47987
+       Surf Lapse  =  0.858632  0.858632  9.47987
+rho_c = 0.000806356, P_c = 0.000100222, eps_c = 0.000867864
+finished odeint with kount = 7766, r = 9.54467, and P = 8.80041e-23
+Found TOV solution for rho_c = 0.000806356
+       Mass     = 1.45864
+       RestMass = 1.58744
+       Radius   = 8.0197
+       Circ Radius = 9.54467
+       Surf Lapse  =  0.833279  0.833279  9.54467
+rho_c = 0.000910246, P_c = 0.00013968, eps_c = 0.000994861
+finished odeint with kount = 7452, r = 9.55634, and P = 1.06004e-22
+Found TOV solution for rho_c = 0.000910246
+       Mass     = 1.66391
+       RestMass = 1.83648
+       Radius   = 7.80373
+       Circ Radius = 9.55634
+       Surf Lapse  =  0.807321  0.807321  9.55634
+rho_c = 0.00102752, P_c = 0.000192, eps_c = 0.00114426
+finished odeint with kount = 7160, r = 9.51401, and P = 3.44479e-23
+Found TOV solution for rho_c = 0.00102752
+       Mass     = 1.84869
+       RestMass = 2.06789
+       Radius   = 7.55218
+       Circ Radius = 9.51401
+       Surf Lapse  =  0.781905  0.781905  9.51401
+rho_c = 0.0011599, P_c = 0.000259776, eps_c = 0.00132061
+finished odeint with kount = 6891, r = 9.42295, and P = 2.42028e-22
+Found TOV solution for rho_c = 0.0011599
+       Mass     = 2.00423
+       RestMass = 2.2689
+       Radius   = 7.28079
+       Circ Radius = 9.42295
+       Surf Lapse  =  0.758028  0.758028  9.42295
+rho_c = 0.00130934, P_c = 0.000346492, eps_c = 0.00152917
+finished odeint with kount = 6655, r = 9.29074, and P = 2.14375e-23
+Found TOV solution for rho_c = 0.00130934
+       Mass     = 2.12702
+       RestMass = 2.4324
+       Radius   = 7.00219
+       Circ Radius = 9.29074
+       Surf Lapse  =  0.736288  0.736288  9.29074
+rho_c = 0.00147804, P_c = 0.000455275, eps_c = 0.00177784
+finished odeint with kount = 6450, r = 9.12751, and P = 7.57801e-23
+Found TOV solution for rho_c = 0.00147804
+       Mass     = 2.21609
+       RestMass = 2.55432
+       Radius   = 6.72896
+       Circ Radius = 9.12751
+       Surf Lapse  =  0.717227  0.717227  9.12751
+rho_c = 0.00166846, P_c = 0.000589925, eps_c = 0.00207382
+finished odeint with kount = 6271, r = 8.94271, and P = 1.63578e-22
+Found TOV solution for rho_c = 0.00166846
+       Mass     = 2.27404
+       RestMass = 2.6356
+       Radius   = 6.46881
+       Circ Radius = 8.94271
+       Surf Lapse  =  0.701013  0.701013  8.94271
+rho_c = 0.00188342, P_c = 0.00075474, eps_c = 0.00242674
+finished odeint with kount = 6130, r = 8.74501, and P = 2.22396e-22
+Found TOV solution for rho_c = 0.00188342
+       Mass     = 2.30503
+       RestMass = 2.67996
+       Radius   = 6.22666
+       Circ Radius = 8.74501
+       Surf Lapse  =  0.68763  0.68763  8.74501
+rho_c = 0.00212608, P_c = 0.00095461, eps_c = 0.00284941
+finished odeint with kount = 6034, r = 8.54137, and P = 3.98421e-23
+Found TOV solution for rho_c = 0.00212608
+       Mass     = 2.31376
+       RestMass = 2.69262
+       Radius   = 6.00473
+       Circ Radius = 8.54137
+       Surf Lapse  =  0.676922  0.676922  8.54137
+rho_c = 0.0024, P_c = 0.00119662, eps_c = 0.00335451
+finished odeint with kount = 5928, r = 8.3364, and P = 8.63826e-22
+Found TOV solution for rho_c = 0.0024
+       Mass     = 2.30467
+       RestMass = 2.67913
+       Radius   = 5.8029
+       Circ Radius = 8.3364
+       Surf Lapse  =  0.668642  0.668642  8.3364
