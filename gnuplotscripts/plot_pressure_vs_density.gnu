@@ -2,15 +2,32 @@
 
 load 'gnuplotscripts/linestyle_defs.gnu'
 
-set title 'Pressure vs. Density for Barotropic EOSs'
+set title 'Pressure vs. Density for Barotropic (Cold, Beta-Eq) Equations of State'
 set xlabel 'density (G=c=Msun=1)'
+set x2label 'density (g/cm^3)'
 set ylabel 'pressure (G=c=Msun=1)'
-min_rho_in_per_Msun_per_Msun=1e-7
-max_rho_in_per_Msun_per_Msun=1e-2
-set xrange [min_rho_in_per_Msun_per_Msun:max_rho_in_per_Msun_per_Msun]
-set yrange [*:*]
+set y2label 'pressure (barye)'
+
+geoTocgs_rho=6.178e17
+min_rho_geo=1e-7
+max_rho_geo=1e-2
+set xrange [min_rho_geo:max_rho_geo]
+set x2range [min_rho_geo*geoTocgs_rho:max_rho_geo*geoTocgs_rho]
+set xtics nomirror
+set x2tics nomirror
 set logscale x
+set logscale x2
+
+geoTocgs_p=5.553e38
+min_p_geo=1e-10
+max_p_geo=1e-1
+set yrange [min_p_geo:max_p_geo]
+set y2range [min_p_geo*geoTocgs_p:max_p_geo*geoTocgs_p]
+set ytics nomirror
+set y2tics nomirror
 set logscale y
+set logscale y2
+
 set key top left
 
 p \

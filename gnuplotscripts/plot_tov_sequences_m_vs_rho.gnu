@@ -2,13 +2,24 @@
 
 load 'gnuplotscripts/linestyle_defs.gnu'
 
-set title 'TOV Sequences from Cold Slices of Various Equations of State'
+set title 'TOV Sequences from Cold, Beta-Eq Slices of Equations of State'
 set xlabel 'central density (G=c=Msun=1)'
+set x2label 'central density (g/cm^3)'
 set ylabel 'gravitational mass (Msun)'
-set xrange [1e-4:8e-3]
-set yrange [0:3]
+
+geoTocgs_rho=6.178e17
+min_rho_geo=1e-4
+max_rho_geo=8e-3
+set xrange [min_rho_geo:max_rho_geo]
+set x2range [min_rho_geo*geoTocgs_rho:max_rho_geo*geoTocgs_rho]
+set xtics nomirror
+set x2tics nomirror
 set logscale x
+set logscale x2
+
+set yrange [0:3]
 unset logscale y
+
 set key top left
 
 p \
@@ -18,4 +29,6 @@ p \
 'maketovsequence-GShenFSU21_ColdTable-warm-smooth.dat' u 1:2 w l ls 4 t 'G. Shen FSU 2.1',\
 'maketovsequence-SFHo_ColdTable.dat' u 1:2 w l ls 5 t 'SFHo',\
 'maketovsequence-SFHx_ColdTable.dat' u 1:2 w l ls 6 t 'SFHx',\
-'maketovsequence-HempDD2_ColdTable.dat' u 1:2 w l ls 7 t 'Hempel DD2'
+'maketovsequence-HempDD2_ColdTable.dat' u 1:2 w l ls 7 t 'Hempel DD2',\
+1.2 lt 0 t '',\
+1.4 lt 0 t ''

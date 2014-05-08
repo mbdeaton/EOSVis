@@ -2,15 +2,26 @@
 
 load 'gnuplotscripts/linestyle_defs.gnu'
 
-set title 'TOV Sequences from Cold Slices of Various Equations of State'
+set title 'TOV Sequences from Cold, Beta-Eq Slices of Equations of State'
 set xlabel 'central density (G=c=Msun=1)'
+set x2label 'central density (g/cm^3)'
 set ylabel 'radius (km)'
 km_per_Msun=1.47
-max_r_in_km=19
-set xrange [1e-4:8e-3]
-set yrange [*:max_r_in_km]
+
+geoTocgs_rho=6.178e17
+min_rho_geo=1e-4
+max_rho_geo=8e-3
+set xrange [min_rho_geo:max_rho_geo]
+set x2range [min_rho_geo*geoTocgs_rho:max_rho_geo*geoTocgs_rho]
+set xtics nomirror
+set x2tics nomirror
 set logscale x
+set logscale x2
+
+max_r_in_km=19
+set yrange [*:max_r_in_km]
 unset logscale y
+
 set key top right
 
 p \
