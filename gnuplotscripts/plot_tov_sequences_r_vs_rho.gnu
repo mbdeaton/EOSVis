@@ -6,6 +6,7 @@ set title 'TOV Sequences from Cold, Beta-Eq Slices of Equations of State'
 set xlabel 'central density (G=c=Msun=1)'
 set x2label 'central density (g/cm^3)'
 set ylabel 'radius (km)'
+unset y2label
 km_per_Msun=1.47
 
 geoTocgs_rho=6.178e17
@@ -20,6 +21,8 @@ set logscale x2
 
 max_r_in_km=19
 set yrange [*:max_r_in_km]
+unset y2tics
+set ytics mirror
 unset logscale y
 
 set key top right

@@ -3,14 +3,25 @@
 load 'gnuplotscripts/linestyle_defs.gnu'
 
 set title 'TOV Sequences from Cold, Beta-Eq Slices of Equations of State'
+
 set xlabel 'areal radius (km)'
+unset x2label
+
 set ylabel 'gravitational mass (Msun)'
+unset y2label
+
 km_per_Msun=1.47
 max_r_in_km=19
 set xrange [*:max_r_in_km]
-set yrange [0:3]
 unset logscale x
+unset x2tics
+set xtics mirror
+
+set yrange [0:3]
 unset logscale y
+unset y2tics
+set ytics mirror
+
 set key top right
 
 p \

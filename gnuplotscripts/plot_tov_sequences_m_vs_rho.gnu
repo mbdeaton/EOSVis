@@ -5,7 +5,8 @@ load 'gnuplotscripts/linestyle_defs.gnu'
 set title 'TOV Sequences from Cold, Beta-Eq Slices of Equations of State'
 set xlabel 'central density (G=c=Msun=1)'
 set x2label 'central density (g/cm^3)'
-set ylabel 'gravitational mass (Msun)'
+set ylabel 'gravitational mass (M_{sun})'
+unset y2label
 
 geoTocgs_rho=6.178e17
 min_rho_geo=1e-4
@@ -19,6 +20,8 @@ set logscale x2
 
 set yrange [0:3]
 unset logscale y
+unset y2tics
+set ytics mirror
 
 set key top left
 
