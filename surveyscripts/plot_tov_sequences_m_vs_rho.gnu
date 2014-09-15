@@ -27,7 +27,7 @@ set key top left
 
 p \
 '../maketovsequence-LS220_ColdTable.dat' u 1:2 w l ls 1 t 'LS 220',\
-'../maketovsequence-GShenFSU21_ColdTable-warm-smooth.dat' u 1:2 w l ls 4 t 'G. Shen FSU 2.1',\
+'../maketovsequence-GShenFSU21_ColdTable-T0.1-smooth.dat' u 1:2 w l ls 4 t 'G. Shen FSU 2.1',\
 '../maketovsequence-SFHo_ColdTable.dat' u 1:2 w l ls 5 t 'SFHo',\
 '../maketovsequence-SFHx_ColdTable.dat' u 1:2 w l ls 6 t 'SFHx',\
 '../maketovsequence-HempDD2_ColdTable.dat' u 1:2 w l ls 7 t 'Hempel DD2',\

@@ -29,7 +29,7 @@ set key top left
 
 p \
 '../ploteos-LS220_ColdTable.dat' u 1:5 w l ls 1 t 'LS 220',\
-'../ploteos-GShenFSU21_ColdTable-warm-smooth.dat' u 1:5 w l ls 4 t 'G. Shen FSU 2.1',\
+'../ploteos-GShenFSU21_ColdTable-T0.1-smooth.dat' u 1:5 w l ls 4 t 'G. Shen FSU 2.1',\
 '../ploteos-SFHo_ColdTable.dat' u 1:5 w l ls 5 t 'SFHo',\
 '../ploteos-SFHx_ColdTable.dat' u 1:5 w l ls 6 t 'SFHx',\
 '../ploteos-HempDD2_ColdTable.dat' u 1:5 w l ls 7 t 'Hempel DD2'
