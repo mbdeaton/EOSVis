@@ -26,8 +26,6 @@ set key top right
 
 p \
 '../maketovsequence-LS220_ColdTable.dat' u 2:($2/$3) w l ls 1 t 'LS 220',\
-'../maketovsequence-HShen_ColdTable.dat' u 2:($2/$3) w l ls 2 t 'H. Shen 2011',\
-'../maketovsequence-GShenNL3_ColdTable.dat' u 2:($2/$3) w l ls 3 t 'G. Shen NL3',\
 '../maketovsequence-GShenFSU21_ColdTable-T0.1-smooth.dat' u 2:($2/$3) w l ls 4 t 'G. Shen FSU 2.1',\
 '../maketovsequence-SFHo_ColdTable.dat' u 2:($2/$3) w l ls 5 t 'SFHo',\
 '../maketovsequence-SFHx_ColdTable.dat' u 2:($2/$3) w l ls 6 t 'SFHx',\
