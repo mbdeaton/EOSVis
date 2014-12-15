@@ -28,8 +28,8 @@ set y2tics nomirror
 set key top right
 
 p \
-'../profile-M12-DD2.dat' u ($1*km_per_Msun):2 w l ls 1 t 'LS 220 M=1.2',\
-'../profile-M14-DD2.dat' u ($1*km_per_Msun):2 w l ls 1 t 'LS 220 M=1.4',\
+'../profile-M12-LS220.dat' u ($1*km_per_Msun):2 w l ls 1 t 'LS 220 M=1.2',\
+'../profile-M14-LS220.dat' u ($1*km_per_Msun):2 w l ls 1 t 'LS 220 M=1.4',\
 '../profile-M12-FSU21.dat' u ($1*km_per_Msun):2 w l ls 4 t 'G. Shen FSU 2.1 M=1.2',\
 '../profile-M14-FSU21.dat' u ($1*km_per_Msun):2 w l ls 4 t 'G. Shen FSU 2.1 M=1.4',\
 '../profile-M12-SFHo.dat' u ($1*km_per_Msun):2 w l ls 5 t 'SFHo M=1.2',\
