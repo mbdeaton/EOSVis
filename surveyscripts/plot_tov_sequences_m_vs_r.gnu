@@ -1,8 +1,10 @@
 # Plot TOV Sequences
+# for a nice plot, use
+# set term pdf color dashed linewidth 4 fsize 10 size 4,3
 
 load '../gnuplotscripts/linestyle_defs.gnu'
 
-set title 'TOV Sequences from Cold, Beta-Eq Slices of Equations of State'
+set title 'TOV Sequences from Cold, Beta-Eq Slices of EOSs'
 
 set xlabel 'areal radius (km)'
 unset x2label
